@@ -1,0 +1,20 @@
+{
+  "name": "brewski-app",
+  "version": "0.0.0",
+  "description": "Brewski App",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylerws/brewski-app.git"
+  },
+  "author": "Kyler Sakumoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylerws/brewski-app/issues"
+  },
+  "homepage": "https://github.com/kylerws/brewski-app#readme"
+}
